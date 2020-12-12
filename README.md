@@ -10,9 +10,9 @@
 
  
 
-+ Nguyễn Huy Tú 18120254
++ Nguyễn Huy Tú - 18120254
 
-+ Nguyễn Duy Vũ 18120264
++ Nguyễn Duy Vũ - 18120264
 
 ## Thông tin bài làm
 
@@ -31,27 +31,27 @@
 
 ## Hướng dẫn sử dụng
 
-- Đi tới thư mục chứa mã nguồn:
+Đi tới thư mục chứa mã nguồn:
 
 	`cd RNG_LKM
 
-- Build kernel module theo phương pháp Kbuild bằng lệnh:
+Build kernel module theo phương pháp Kbuild bằng lệnh:
 
 	make
 
-- Cài đặt module vào kernel.
+Cài đặt module vào kernel.
 
 	sudo insmod randomModule.ko
 
-- Gọi hàm ở user space để đọc dữ liệu số ngẫu nhiên được tạo từ file device ở kernel space.
+Gọi hàm ở user space để đọc dữ liệu số ngẫu nhiên được tạo từ file device ở kernel space.
 
 	sudo ./userTest
 
-- Tháo module ra khỏi kernel.
+Tháo module ra khỏi kernel.
 
 	sudo rmmod randomModule
 
-- Dọn dẹp file build dư thừa trong folder.
+Dọn dẹp file build dư thừa trong folder.
 
 	make​ clean
 	
