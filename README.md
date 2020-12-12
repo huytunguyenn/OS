@@ -44,7 +44,7 @@ Cài đặt module vào kernel.
 
 	sudo insmod randomModule.ko
 
-Gọi hàm ở user space để đọc dữ liệu số ngẫu nhiên được tạo từ file device ở kernel space.
+Gọi hàm ở user space để đọc dữ liệu số ngẫu nhiên được tạo từ character device ở kernel space.
 
 	sudo ./userTest
 
