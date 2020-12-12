@@ -12,17 +12,15 @@
 
  
 
-Nguyễn Huy Tú
++ Nguyễn Huy Tú 18120254
 
- - 18120254
-
-Nguyễn Duy Vũ - 18120264
++ Nguyễn Duy Vũ 18120264
 
 ## Thông tin bài làm
 
 
 
-- Điểm đề nghị cho bài tập: 10
+Điểm đề nghị cho bài tập: 10
 
 
 - Các chức năng đã làm được: 100%
@@ -37,7 +35,7 @@ Nguyễn Duy Vũ - 18120264
 
 Đi tới thư mục chứa mã nguồn:
 
-	cd RNG_LKM
+	`cd RNG_LKM`
 
 Build kernel module theo phương pháp Kbuild bằng lệnh:
 
