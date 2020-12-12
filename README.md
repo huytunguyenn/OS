@@ -35,7 +35,7 @@
 
 Đi tới thư mục chứa mã nguồn:
 
-	`cd RNG_LKM`
+	```cd RNG_LKM```
 
 Build kernel module theo phương pháp Kbuild bằng lệnh:
 
