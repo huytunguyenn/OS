@@ -12,7 +12,7 @@
 
 + Nguyễn Huy Tú - 18120254
 
-+ Nguyễn Duy Vũ - 18120264
++ Nguyễn Duy Vũ - 18120264 *a.k.a tạ team**
 
 ## Thông tin bài làm
 
